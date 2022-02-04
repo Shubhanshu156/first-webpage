@@ -204,3 +204,7 @@ a:hover {
     font-size: 0.75rem;
     padding: 20px 0px;
 }
+
+.firebase {
+    height: 150px;
+}
